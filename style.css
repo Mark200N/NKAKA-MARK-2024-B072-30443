@@ -1,0 +1,15 @@
+h1{
+background-color:blue;
+padding:30px;
+text-align:center;
+}
+body{
+	background-color:lightblue;
+	text-align:center;
+	padding:30px;
+}
+ul{
+	border-raduis:60px;
+	margin-bottom:30px;
+}
+
